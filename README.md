@@ -1,8 +1,10 @@
 # Best-Questions-on-Quora
-Best Questions Asked by Quora users
+Best Questions Asked by Quora users.
+
 Quora has became awesome place for asking and giving best Questions and Answers.
+
 Some of Most viewed Questions on Quora(https://www.quora.com/) -
-Few questions not listed above are (Till 5th May 2018):
+
 
 1.What can I learn in one minute that will be useful for the rest of my life? (> 30 M views)https://www.quora.com/What-can-I-learn-in-one-minute-that-will-be-useful-for-the-rest-of-my-life
 
